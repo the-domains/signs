@@ -1,0 +1,28 @@
+name: SIGNS
+favicon: null
+layout_spectrum: 0.9905700953677297
+typography_spectrum: 0.7927050355356187
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.17533104587346315
+  lightness: 0.9070995165966451
+  saturation: 0.2904421391431242
+  rhythmicContrast: 0.38613320770673454
+purpose: []
