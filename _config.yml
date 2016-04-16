@@ -1,28 +1,40 @@
-name: SIGNS
-favicon: null
-layout_spectrum: 0.9905700953677297
-typography_spectrum: 0.7927050355356187
-cta:
-  domain: null
-  bucket: null
-  version: null
 analytics:
+  twitter: null
   google: null
   facebook: null
-  twitter: null
 opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors:
-    - '#FF6700'
-    - '#EBEBEB'
-    - '#C0C0C0'
-    - '#3A6EA5'
-    - '#004E98'
-  brandStrength: 0.17533104587346315
-  lightness: 0.9070995165966451
-  saturation: 0.2904421391431242
-  rhythmicContrast: 0.38613320770673454
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 purpose: []
+color:
+  saturation: 0.2904421391431242
+  brandStrength: 0.830827
+  lightness: 0.9070995165966451
+  brandColors:
+    - '#201D18'
+    - '#CE2039'
+    - '#B2A592'
+    - '#921627'
+    - '#DFCFB6'
+  rhythmicContrast: 0.3861332077067345
+typography_spectrum: 0.6557465
+cta:
+  bucket: null
+  version: null
+  domain: null
+layout_spectrum: 0.9049408
+favicon: null
+name: SIGNS
